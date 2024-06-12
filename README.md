@@ -3,7 +3,7 @@
 <hr>
 <div align="center">
   
-🌱 I’m currently learning **A.I. and Web-Dev**
+🌱 I’m currently learning **A.I. and Data Science**
 
  📫 How to reach me **akashdeep93140@gmail.com**
 </div>
