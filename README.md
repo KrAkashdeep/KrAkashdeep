@@ -3,17 +3,19 @@
 <hr>
 <div align="center">
   
-🌱 I’m currently learning **A.I. and Data Science**
+🌱 I’m currently exploring the field of **A.I. and Data Science**
 
- 📫 How to reach me **akashdeep93140@gmail.com**
+ 📫 How to reach me 
+ <br>
+ 👉**akashdeep93140@gmail.com**
 </div>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <br>
 <a href="https://linkedin.com/in/kumar-akashdeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-akashdeep" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akashdeep93140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashdeep93140" height="30" width="40" /></a>
-
+<a href="https://www.hackerrank.com/akashdeep93140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashdeep93140" height="40" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/KrAkashdeep" target="blank"><img align="center" src="https://coursereport-production.imgix.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg?w=200&h=200&dpr=3&q=35" alt="akashdeep93140" height="40" width="40" /></a>
 </p>
 <br>
 
