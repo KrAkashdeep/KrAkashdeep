@@ -36,9 +36,11 @@ I write code to solve real-world problems and break things just enough to unders
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KrAkashdeep&theme=dark&show_icons=true&count_private=true">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KrAkashdeep&theme=dark&show_icons=true&count_private=true&">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrAkashdeep&theme=transparent&hide_border=true" />
+
+  <img align="center" src="https://github-streakify.vercel.app?user=KrAkashdeep&theme=dark&layout=compact" />
+
   </td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KrAkashdeep&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
